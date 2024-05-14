@@ -1,0 +1,14 @@
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\cedrictuma\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll
