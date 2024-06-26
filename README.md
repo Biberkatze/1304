@@ -55,11 +55,11 @@ Ich habe mich dazu entschieden ein Projekt zu machen, bei welchem man normale Za
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A | 22.12.23 | Cedric |  45 Min | 50 Min |
-| 2.A | 22.12.23 | Cedric |  120 Min | 130 Min |
-| 3.A | 22.12.23 | Cedric |  45 Min | 40 Min |
-| 4.A | 22.12.23 | Cedric |  70 Min | 80 Min |
-| 5.A | 22.12.23 | Cedric | 120 Min | 110 Min |
+| 1.A | 19.04.24 | Cedric |  45 Min | 50 Min |
+| 2.A | 19.04.24 | Cedric |  120 Min | 130 Min |
+| 3.A | 19.04.24 | Cedric |  45 Min | 40 Min |
+| 4.A | 19.04.24 | Cedric |  70 Min | 80 Min |
+| 5.A | 19.04.24 | Cedric | 120 Min | 110 Min |
 
 
 
@@ -70,10 +70,10 @@ Ich habe mich dazu entschieden ein Projekt zu machen, bei welchem man normale Za
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 23.02.24 | OK | Cedric |
-| 2.1  | 23.02.24 | OK | Cedric |
-| 3.1  | 23.02.24 | OK | Cedric |
-| 4.1  | 23.02.24 | OK | Cedric |
+| 1.1  | 19.04.24 | OK | Cedric |
+| 2.1  | 19.04.24 | OK | Cedric |
+| 3.1  | 19.04.24 | OK | Cedric |
+| 4.1  | 19.04.24 | OK | Cedric |
 
 Es gab keine Probleme und alles wurde richtig implementiert.
 
